@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(0, 0%, 100%);
+}
+h4{
+    font-family: Outfit;
+    font-size:20px;
+    text-align:center;
+    font-weight: 700;
+    padding: auto;
+}
+p{
+    font-family: Outfit;
+    font-size:  15px;
+    color:hsl(220, 15%, 55%);
+    text-align:center;
+
+}
+.largebox{
+    background-color:hsl(212, 45%, 89%);
+    position: relative;
+    top: 50px;
+    margin-left: 20px;
+    margin-right:20px;
+    box-shadow:  05px 5px 02px  lightgray;
+    height: 600px;
+    
+}
+.smallbox{
+    background-color:  hsl(0, 0%, 100%);
+    position: relative;
+    top: 75px;
+    margin-left: 200px;
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+    margin: auto;
+}
+img{
+    position: relative;
+    top: 10px;
+    left: 27px;
+
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    
+}
